@@ -12,7 +12,24 @@
     }
   },
   "profile": {
-    "name": "typicode"
+    "success": true,
+    "data": {
+      "fullname": "Alexey Kornilov",
+      "email": "alexey@klaim.ai"
+    }
   },
+  "author": [
+    {
+      "id": 1,
+      "name": "Charlie Chaplin"
+    }
+  ],
+  "quote": [
+    {
+      "id": 1,
+      "authorId": 1,
+      "quote": "A day without laughter is a day wasted."
+    }
+  ],
   "logout": []
 }

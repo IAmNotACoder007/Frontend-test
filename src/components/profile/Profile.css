@@ -1,0 +1,11 @@
+.app-profile__user {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  grid-gap: 25px;
+  align-items: center;
+}
+
+.app-profile {
+  display: flex;
+  flex-direction: column;
+}
